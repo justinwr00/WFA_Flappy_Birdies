@@ -1,0 +1,74 @@
+fileFormatVersion: 2
+guid: 5e94d63310638db45a17b55ee323d084
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"210mm\"\n   height=\"297mm\"\n   viewBox=\"0 0 210 297\"\n   version=\"1.1\"\n
+    \  id=\"svg8\"\n   inkscape:version=\"0.92.3 (2405546, 2018-03-11)\"\n   sodipodi:docname=\"SkylineFar.svg\"\n
+    \  inkscape:export-filename=\"C:\\Users\\justi\\Pictures\\Inkscape drawings\\background1.png\"\n
+    \  inkscape:export-xdpi=\"39.805267\"\n   inkscape:export-ydpi=\"39.805267\">\n
+    \ <defs\n     id=\"defs2\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.175\"\n     inkscape:cx=\"10419.164\"\n
+    \    inkscape:cy=\"150.93695\"\n     inkscape:document-units=\"mm\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     showborder=\"false\"\n     inkscape:window-width=\"1920\"\n
+    \    inkscape:window-height=\"1001\"\n     inkscape:window-x=\"-9\"\n     inkscape:window-y=\"-9\"\n
+    \    inkscape:window-maximized=\"1\" />\n  <metadata\n     id=\"metadata5\">\n
+    \   <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n
+    \       <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       id=\"g8693\"\n       transform=\"translate(-2565.7875,-393.42075)\">\n
+    \     <rect\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.19656372;stroke-opacity:1\"\n
+    \        id=\"rect1707\"\n         width=\"49.89286\"\n         height=\"278.94644\"\n
+    \        x=\"5096.4707\"\n         y=\"348.07123\"\n         rx=\"5.28931\"\n
+    \        ry=\"12.879762\"\n         inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        ry=\"11.797723\"\n         rx=\"4.8886046\"\n         y=\"371.12781\"\n
+    \        x=\"5054.5151\"\n         height=\"255.51192\"\n         width=\"46.113098\"\n
+    \        id=\"rect1709\"\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.1009661;stroke-opacity:1\"\n
+    \        inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        ry=\"7.6440868\"\n         rx=\"7.897028\"\n         y=\"462.0087\"\n
+    \        x=\"4953.3364\"\n         height=\"165.55359\"\n         width=\"74.490868\"\n
+    \        id=\"rect1711\"\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.12635958;stroke-opacity:1\"\n
+    \        inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        ry=\"12.879762\"\n         rx=\"5.28931\"\n         y=\"346.18134\"\n
+    \        x=\"4712.0688\"\n         height=\"278.94644\"\n         width=\"49.89286\"\n
+    \        id=\"rect1713\"\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.19656372;stroke-opacity:1\"\n
+    \        inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.1009661;stroke-opacity:1\"\n
+    \        id=\"rect1715\"\n         width=\"46.113098\"\n         height=\"255.51192\"\n
+    \        x=\"4665.9556\"\n         y=\"369.61591\"\n         rx=\"4.8886046\"\n
+    \        ry=\"11.797723\"\n         inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.12635958;stroke-opacity:1\"\n
+    \        id=\"rect1717\"\n         width=\"74.490868\"\n         height=\"165.55359\"\n
+    \        x=\"4564.7769\"\n         y=\"460.4968\"\n         rx=\"7.897028\"\n
+    \        ry=\"7.6440868\"\n         inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        ry=\"5.8670397\"\n         rx=\"20.137379\"\n         y=\"503.25992\"\n
+    \        x=\"5214.7764\"\n         height=\"127.06678\"\n         width=\"189.95131\"\n
+    \        id=\"rect1719\"\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.57577193;stroke-opacity:1\"\n
+    \        inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.19656372;stroke-opacity:1\"\n
+    \        id=\"rect1721\"\n         width=\"49.89286\"\n         height=\"278.94644\"\n
+    \        x=\"5924.4033\"\n         y=\"354.73395\"\n         rx=\"5.28931\"\n
+    \        ry=\"12.879762\"\n         inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n      <rect\n
+    \        ry=\"11.797723\"\n         rx=\"4.8886046\"\n         y=\"378.16852\"\n
+    \        x=\"5878.29\"\n         height=\"255.51192\"\n         width=\"46.113098\"\n
+    \        id=\"rect1723\"\n         style=\"opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.1009661;stroke-opacity:1\"\n
+    \        inkscape:export-xdpi=\"39.805267\"\n         inkscape:export-ydpi=\"39.805267\"\n
+    \        inkscape:export-filename=\"C:\\Users\\justi\\background1.png\" />\n    </g>\n
+    \ </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 
